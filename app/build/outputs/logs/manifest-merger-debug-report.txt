@@ -1,0 +1,522 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\62c1d602c9acef61e634377affab4cf1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\d59c1c784342ce1d4024e3a4ad8bd152\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\2c58e9d18e5bc6bd54a72bb661360dff\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-firestore:18.2.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcd20ceccdfa616784a0810da8c1ca76\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\98bbbad92f70a647bd5f39d76e7132f9\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-functions:16.1.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\11c29d6ec014cfa38287fd6e71896e71\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-core:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\3d62dcdd304a699e4752a9d762e4935f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\63abbc5c3dc76c83e022ebdeedff8a5a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\87e7dcec1274529092526049176ebf4e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\d4cbde88fc1360100a242396c345de29\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcee5de9f74fe10a47c1e6fa159fd0dc\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\5fe705e690efcab22e32fef3068fd93a\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\0edfca698df3f0276f963b76d23b8269\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\897709cb780d76d0ae3a8f9a63f6bfdd\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\05112f5892b52aa01d9ce055bed3884b\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\c09727060f9aae633b87a1c2f1197e7d\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\174bc7f7bf8906d2935d8ac3077a7ec8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\8d3c9978c85d910becf2482326cc9c9e\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\adc04e47ceaca519d82120b5eba11864\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\ae8110f120ad9113786894d9af3c60b7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\38d0abac659005b97e3f21e90402fe24\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bbf9362b37d973cff2f99f4eaaa33c38\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\59edfe846b5d6ed3f94dbf0d591288ef\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\76ff61597cc71555042e78f31a52cf08\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\ad6315c6b0bf16aae8634bf30de0cc73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\4304c2ca15df26cc6c4e87a123333ba8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\6f471df9d087f9853250f1f7c22a2bfd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\4d1cb834af6b490ea2a36a6af7822aa9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\154f853db74f4170a39fb6f5a2e32a1d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\b1114492f49d352d026816aec7c1a8a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\75e3473a7554a7d0008fbd8c27b63856\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\510581d7763ef71b74fd4fae994cbdee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\1755a2761fcce7f1bea77e27abef06d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\157af9693b337bb78eeef06fca5cf145\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\28b0a0bbba031ce897182d659586fa73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\dbee1d50da74b051fc5b06dfad0075ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\f66a01bffadf2038429230ac5cfbb119\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\4aeb813fc44d75d5a3e986d38ae18617\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\fec3938b4bd83fa727777ef307302e83\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\2f04307fdbd47491dd901dc62aef7c15\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\00ac823dcc4fc32e46cf9a25eb2bba27\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\cd8b11cdca0e70d7e395203c7e07b988\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\260a2c99b4e3b2664198a614df6afda1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\8bb84cb524c6f99458a552a286813ec4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\001ce55c3f4620b40d9857fe53bd0e6e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\4d49c6d5f9d6940533f2a1fccb135e75\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\3053996b2c78fabec9a9493db1fe309e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\7ae9ef03fa09dcbe591ead8f439a889a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\56f6ab5eea5a47e3189fa0275286ed7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\9815127019fb10033e5751de416c8af9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\31e45158450e818ffbeff943d4711323\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\eb59326c69d0d43a5ff0cf83d63f72eb\AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.16.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\936bf79a2dc2e1f2e45971a670fd653e\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\d59c1c784342ce1d4024e3a4ad8bd152\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\d59c1c784342ce1d4024e3a4ad8bd152\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\2c58e9d18e5bc6bd54a72bb661360dff\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\2c58e9d18e5bc6bd54a72bb661360dff\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-firestore:18.2.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcd20ceccdfa616784a0810da8c1ca76\AndroidManifest.xml:16:5-22:19
+MERGED from [com.google.firebase:firebase-firestore:18.2.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcd20ceccdfa616784a0810da8c1ca76\AndroidManifest.xml:16:5-22:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\98bbbad92f70a647bd5f39d76e7132f9\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\98bbbad92f70a647bd5f39d76e7132f9\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-functions:16.1.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\11c29d6ec014cfa38287fd6e71896e71\AndroidManifest.xml:12:5-18:19
+MERGED from [com.google.firebase:firebase-functions:16.1.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\11c29d6ec014cfa38287fd6e71896e71\AndroidManifest.xml:12:5-18:19
+MERGED from [com.google.firebase:firebase-core:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\3d62dcdd304a699e4752a9d762e4935f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\3d62dcdd304a699e4752a9d762e4935f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\63abbc5c3dc76c83e022ebdeedff8a5a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\63abbc5c3dc76c83e022ebdeedff8a5a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\d4cbde88fc1360100a242396c345de29\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\d4cbde88fc1360100a242396c345de29\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcee5de9f74fe10a47c1e6fa159fd0dc\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcee5de9f74fe10a47c1e6fa159fd0dc\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\5fe705e690efcab22e32fef3068fd93a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\5fe705e690efcab22e32fef3068fd93a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\0edfca698df3f0276f963b76d23b8269\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\0edfca698df3f0276f963b76d23b8269\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\897709cb780d76d0ae3a8f9a63f6bfdd\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\897709cb780d76d0ae3a8f9a63f6bfdd\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\05112f5892b52aa01d9ce055bed3884b\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\05112f5892b52aa01d9ce055bed3884b\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\c09727060f9aae633b87a1c2f1197e7d\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\c09727060f9aae633b87a1c2f1197e7d\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\174bc7f7bf8906d2935d8ac3077a7ec8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\174bc7f7bf8906d2935d8ac3077a7ec8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\8d3c9978c85d910becf2482326cc9c9e\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\8d3c9978c85d910becf2482326cc9c9e\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\adc04e47ceaca519d82120b5eba11864\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\adc04e47ceaca519d82120b5eba11864\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\ae8110f120ad9113786894d9af3c60b7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\ae8110f120ad9113786894d9af3c60b7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\38d0abac659005b97e3f21e90402fe24\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\38d0abac659005b97e3f21e90402fe24\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bbf9362b37d973cff2f99f4eaaa33c38\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bbf9362b37d973cff2f99f4eaaa33c38\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\59edfe846b5d6ed3f94dbf0d591288ef\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\59edfe846b5d6ed3f94dbf0d591288ef\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\76ff61597cc71555042e78f31a52cf08\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\76ff61597cc71555042e78f31a52cf08\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\4aeb813fc44d75d5a3e986d38ae18617\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\4aeb813fc44d75d5a3e986d38ae18617\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\fec3938b4bd83fa727777ef307302e83\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\fec3938b4bd83fa727777ef307302e83\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\2f04307fdbd47491dd901dc62aef7c15\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\2f04307fdbd47491dd901dc62aef7c15\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\fec3938b4bd83fa727777ef307302e83\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.firebasesignin.Signed_In_Activity
+ADDED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:13:9-65
+	android:name
+		ADDED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:13:19-53
+activity#com.example.firebasesignin.HomeActivity
+ADDED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.firebasesignin.MainActivity
+ADDED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:21:9-59
+	android:name
+		ADDED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml:21:19-47
+uses-sdk
+INJECTED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\62c1d602c9acef61e634377affab4cf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\62c1d602c9acef61e634377affab4cf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\d59c1c784342ce1d4024e3a4ad8bd152\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\d59c1c784342ce1d4024e3a4ad8bd152\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\2c58e9d18e5bc6bd54a72bb661360dff\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\2c58e9d18e5bc6bd54a72bb661360dff\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-firestore:18.2.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcd20ceccdfa616784a0810da8c1ca76\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:18.2.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcd20ceccdfa616784a0810da8c1ca76\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\98bbbad92f70a647bd5f39d76e7132f9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\98bbbad92f70a647bd5f39d76e7132f9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-functions:16.1.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\11c29d6ec014cfa38287fd6e71896e71\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-functions:16.1.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\11c29d6ec014cfa38287fd6e71896e71\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-core:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\3d62dcdd304a699e4752a9d762e4935f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\3d62dcdd304a699e4752a9d762e4935f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\63abbc5c3dc76c83e022ebdeedff8a5a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\63abbc5c3dc76c83e022ebdeedff8a5a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\87e7dcec1274529092526049176ebf4e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\87e7dcec1274529092526049176ebf4e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\d4cbde88fc1360100a242396c345de29\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\d4cbde88fc1360100a242396c345de29\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcee5de9f74fe10a47c1e6fa159fd0dc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcee5de9f74fe10a47c1e6fa159fd0dc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\5fe705e690efcab22e32fef3068fd93a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\5fe705e690efcab22e32fef3068fd93a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\0edfca698df3f0276f963b76d23b8269\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\0edfca698df3f0276f963b76d23b8269\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\897709cb780d76d0ae3a8f9a63f6bfdd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\897709cb780d76d0ae3a8f9a63f6bfdd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\05112f5892b52aa01d9ce055bed3884b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\05112f5892b52aa01d9ce055bed3884b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\c09727060f9aae633b87a1c2f1197e7d\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\c09727060f9aae633b87a1c2f1197e7d\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\174bc7f7bf8906d2935d8ac3077a7ec8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\174bc7f7bf8906d2935d8ac3077a7ec8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\8d3c9978c85d910becf2482326cc9c9e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\8d3c9978c85d910becf2482326cc9c9e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\adc04e47ceaca519d82120b5eba11864\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\adc04e47ceaca519d82120b5eba11864\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\ae8110f120ad9113786894d9af3c60b7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\ae8110f120ad9113786894d9af3c60b7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\38d0abac659005b97e3f21e90402fe24\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\38d0abac659005b97e3f21e90402fe24\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bbf9362b37d973cff2f99f4eaaa33c38\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bbf9362b37d973cff2f99f4eaaa33c38\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\59edfe846b5d6ed3f94dbf0d591288ef\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\59edfe846b5d6ed3f94dbf0d591288ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\76ff61597cc71555042e78f31a52cf08\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\76ff61597cc71555042e78f31a52cf08\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\ad6315c6b0bf16aae8634bf30de0cc73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\ad6315c6b0bf16aae8634bf30de0cc73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\4304c2ca15df26cc6c4e87a123333ba8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\4304c2ca15df26cc6c4e87a123333ba8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\6f471df9d087f9853250f1f7c22a2bfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\6f471df9d087f9853250f1f7c22a2bfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\4d1cb834af6b490ea2a36a6af7822aa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\4d1cb834af6b490ea2a36a6af7822aa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\154f853db74f4170a39fb6f5a2e32a1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\154f853db74f4170a39fb6f5a2e32a1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\b1114492f49d352d026816aec7c1a8a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\b1114492f49d352d026816aec7c1a8a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\75e3473a7554a7d0008fbd8c27b63856\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\75e3473a7554a7d0008fbd8c27b63856\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\510581d7763ef71b74fd4fae994cbdee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\510581d7763ef71b74fd4fae994cbdee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\1755a2761fcce7f1bea77e27abef06d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\1755a2761fcce7f1bea77e27abef06d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\157af9693b337bb78eeef06fca5cf145\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\157af9693b337bb78eeef06fca5cf145\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\28b0a0bbba031ce897182d659586fa73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\28b0a0bbba031ce897182d659586fa73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\dbee1d50da74b051fc5b06dfad0075ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\dbee1d50da74b051fc5b06dfad0075ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\f66a01bffadf2038429230ac5cfbb119\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\f66a01bffadf2038429230ac5cfbb119\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\4aeb813fc44d75d5a3e986d38ae18617\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\4aeb813fc44d75d5a3e986d38ae18617\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\fec3938b4bd83fa727777ef307302e83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\fec3938b4bd83fa727777ef307302e83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\2f04307fdbd47491dd901dc62aef7c15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\2f04307fdbd47491dd901dc62aef7c15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\00ac823dcc4fc32e46cf9a25eb2bba27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\00ac823dcc4fc32e46cf9a25eb2bba27\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\cd8b11cdca0e70d7e395203c7e07b988\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\cd8b11cdca0e70d7e395203c7e07b988\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\260a2c99b4e3b2664198a614df6afda1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\260a2c99b4e3b2664198a614df6afda1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\8bb84cb524c6f99458a552a286813ec4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\8bb84cb524c6f99458a552a286813ec4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\001ce55c3f4620b40d9857fe53bd0e6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\001ce55c3f4620b40d9857fe53bd0e6e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\4d49c6d5f9d6940533f2a1fccb135e75\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\4d49c6d5f9d6940533f2a1fccb135e75\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\3053996b2c78fabec9a9493db1fe309e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\3053996b2c78fabec9a9493db1fe309e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\7ae9ef03fa09dcbe591ead8f439a889a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\7ae9ef03fa09dcbe591ead8f439a889a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\56f6ab5eea5a47e3189fa0275286ed7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\56f6ab5eea5a47e3189fa0275286ed7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\9815127019fb10033e5751de416c8af9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\9815127019fb10033e5751de416c8af9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\31e45158450e818ffbeff943d4711323\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\31e45158450e818ffbeff943d4711323\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\eb59326c69d0d43a5ff0cf83d63f72eb\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\eb59326c69d0d43a5ff0cf83d63f72eb\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.16.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\936bf79a2dc2e1f2e45971a670fd653e\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.16.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\936bf79a2dc2e1f2e45971a670fd653e\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\76ff61597cc71555042e78f31a52cf08\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Ayush\Firebase_Signin\app\src\main\AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\2c58e9d18e5bc6bd54a72bb661360dff\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\2c58e9d18e5bc6bd54a72bb661360dff\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\2c58e9d18e5bc6bd54a72bb661360dff\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\2c58e9d18e5bc6bd54a72bb661360dff\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\2c58e9d18e5bc6bd54a72bb661360dff\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\2c58e9d18e5bc6bd54a72bb661360dff\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\2c58e9d18e5bc6bd54a72bb661360dff\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\2c58e9d18e5bc6bd54a72bb661360dff\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\2c58e9d18e5bc6bd54a72bb661360dff\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-firestore:18.2.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcd20ceccdfa616784a0810da8c1ca76\AndroidManifest.xml:17:9-21:19
+MERGED from [com.google.firebase:firebase-firestore:18.2.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcd20ceccdfa616784a0810da8c1ca76\AndroidManifest.xml:17:9-21:19
+MERGED from [com.google.firebase:firebase-functions:16.1.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\11c29d6ec014cfa38287fd6e71896e71\AndroidManifest.xml:13:9-17:19
+MERGED from [com.google.firebase:firebase-functions:16.1.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\11c29d6ec014cfa38287fd6e71896e71\AndroidManifest.xml:13:9-17:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcee5de9f74fe10a47c1e6fa159fd0dc\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcee5de9f74fe10a47c1e6fa159fd0dc\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\2c58e9d18e5bc6bd54a72bb661360dff\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\2c58e9d18e5bc6bd54a72bb661360dff\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\2c58e9d18e5bc6bd54a72bb661360dff\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\2c58e9d18e5bc6bd54a72bb661360dff\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\2c58e9d18e5bc6bd54a72bb661360dff\AndroidManifest.xml:37:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-firestore:18.2.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcd20ceccdfa616784a0810da8c1ca76\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcee5de9f74fe10a47c1e6fa159fd0dc\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcee5de9f74fe10a47c1e6fa159fd0dc\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\0edfca698df3f0276f963b76d23b8269\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\0edfca698df3f0276f963b76d23b8269\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:22:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\936bf79a2dc2e1f2e45971a670fd653e\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\936bf79a2dc2e1f2e45971a670fd653e\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:18.2.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcd20ceccdfa616784a0810da8c1ca76\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-firestore:18.2.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcd20ceccdfa616784a0810da8c1ca76\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-functions:16.1.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\11c29d6ec014cfa38287fd6e71896e71\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-functions:16.1.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\11c29d6ec014cfa38287fd6e71896e71\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcee5de9f74fe10a47c1e6fa159fd0dc\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcee5de9f74fe10a47c1e6fa159fd0dc\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\0edfca698df3f0276f963b76d23b8269\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\0edfca698df3f0276f963b76d23b8269\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:18.2.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcd20ceccdfa616784a0810da8c1ca76\AndroidManifest.xml:14:22-64
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:18.2.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcd20ceccdfa616784a0810da8c1ca76\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:18.2.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcd20ceccdfa616784a0810da8c1ca76\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:18.2.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcd20ceccdfa616784a0810da8c1ca76\AndroidManifest.xml:19:17-111
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\98bbbad92f70a647bd5f39d76e7132f9\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\98bbbad92f70a647bd5f39d76e7132f9\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\98bbbad92f70a647bd5f39d76e7132f9\AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\98bbbad92f70a647bd5f39d76e7132f9\AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\98bbbad92f70a647bd5f39d76e7132f9\AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\98bbbad92f70a647bd5f39d76e7132f9\AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\98bbbad92f70a647bd5f39d76e7132f9\AndroidManifest.xml:32:25-75
+meta-data#com.google.firebase.components:com.google.firebase.functions.FunctionsRegistrar
+ADDED from [com.google.firebase:firebase-functions:16.1.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\11c29d6ec014cfa38287fd6e71896e71\AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-functions:16.1.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\11c29d6ec014cfa38287fd6e71896e71\AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-functions:16.1.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\11c29d6ec014cfa38287fd6e71896e71\AndroidManifest.xml:15:17-111
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcee5de9f74fe10a47c1e6fa159fd0dc\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\0edfca698df3f0276f963b76d23b8269\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\0edfca698df3f0276f963b76d23b8269\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcee5de9f74fe10a47c1e6fa159fd0dc\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcee5de9f74fe10a47c1e6fa159fd0dc\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcee5de9f74fe10a47c1e6fa159fd0dc\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\bcee5de9f74fe10a47c1e6fa159fd0dc\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\0edfca698df3f0276f963b76d23b8269\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\0edfca698df3f0276f963b76d23b8269\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\0edfca698df3f0276f963b76d23b8269\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\0edfca698df3f0276f963b76d23b8269\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\50883dca36f5e02337266dcf50d9a4ea\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\39c7872afc95913ab6c523471eae9796\AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\05112f5892b52aa01d9ce055bed3884b\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\05112f5892b52aa01d9ce055bed3884b\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\05112f5892b52aa01d9ce055bed3884b\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\05112f5892b52aa01d9ce055bed3884b\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\c09727060f9aae633b87a1c2f1197e7d\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\c09727060f9aae633b87a1c2f1197e7d\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\c09727060f9aae633b87a1c2f1197e7d\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\c09727060f9aae633b87a1c2f1197e7d\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\c09727060f9aae633b87a1c2f1197e7d\AndroidManifest.xml:13:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\59edfe846b5d6ed3f94dbf0d591288ef\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\59edfe846b5d6ed3f94dbf0d591288ef\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\59edfe846b5d6ed3f94dbf0d591288ef\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\76ff61597cc71555042e78f31a52cf08\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\4aeb813fc44d75d5a3e986d38ae18617\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\4aeb813fc44d75d5a3e986d38ae18617\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\76ff61597cc71555042e78f31a52cf08\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Ayush Malik\.gradle\caches\transforms-2\files-2.1\76ff61597cc71555042e78f31a52cf08\AndroidManifest.xml:27:13-51
